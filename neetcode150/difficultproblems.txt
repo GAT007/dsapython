@@ -1,0 +1,25 @@
+Word Break - dp problem - start from end check in nested for loop for current lenght
+Partition Equal Subset Sum - dp is a set
+Decode Ways - dp is a hash map
+Partition Labels - track the end index of every thing
+Non Overlapping Intervals - prevEnd = end if start > prevEnd
+Word Search - dfs(r, c, i)
+Palindrome Partitioning - isPalindrome from i + 1 to len(sr) Done till here
+Letter Combinations of a phone number -
+Find minimum in rotated sorted array - while l<=mid
+Longest palindromic substring
+Palindromic substring
+Longest Palindromic subsequence
+Search in a rotated sorted array
+Time Based Key Value Store
+Median of two sorted arrays
+Merge K Sorted Lists
+Reverse K Nodes
+Largest rectangle in histogram
+Minimum Window Substring
+Valid Sudoku
+Redundant Connection
+Word Ladder
+Longest Common Subsequence
+Largest 1 bordered square
+Meeting Rooms 3
